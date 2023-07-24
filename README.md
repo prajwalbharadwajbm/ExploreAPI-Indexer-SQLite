@@ -1,1 +1,1 @@
-# ExploreAPI-Indexer-SQLite-
+# ExploreAPI-Indexer-SQLite
